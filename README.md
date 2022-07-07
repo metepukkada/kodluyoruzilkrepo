@@ -3,7 +3,7 @@
 
 ![resim](https://github.com/metepukkada/kodluyoruzilkrepo/blob/main/github.png?raw=true) 
 ## Installation
-
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ````
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ````
